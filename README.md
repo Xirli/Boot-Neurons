@@ -15,6 +15,3 @@ This project is based on [Artificial life](https://www.youtube.com/watch?v=PCx22
 * '3' — add green bots  
 * '4' — add red bots  
 * '5' — add purple bots  
-
-![](img/bots3.png)
-![](img/chart1.png)
