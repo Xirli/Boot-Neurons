@@ -4,9 +4,10 @@ Don't ask me why boot.
 This project is based on [Artificial life](https://www.youtube.com/watch?v=PCx228KcOow), but with differences:
 * Bots eat grass.
 * Bots are controlled by a neural network.
-* Bots cannot attack and recognize friends and enemies.
+* Bots cannot attack and recognize friends and enemies.  
 
-Сontrol
+
+### Сontrol
 * space — restart  
 * up/down arrow — switch simulation speed  
 * left/right arrow — switch between tabs  
