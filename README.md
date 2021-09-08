@@ -5,3 +5,9 @@ This project is based on [Artificial life](https://www.youtube.com/watch?v=PCx22
 1) Bots eat grass.
 2) Bots are controlled by a neural network.
 3) Bots cannot attack and recognize friends and enemies.
+
+![](img/bots1.png)
+![](img/bots2.png)
+![](img/bots3.png)
+![](img/chart1.png)
+![](img/chart2.png)
