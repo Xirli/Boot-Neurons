@@ -1,5 +1,5 @@
 # Boot-Neurons (2019)
-Don't ask me why boot.
+Don't ask me why boot)
 
 This project is based on [Artificial life](https://www.youtube.com/watch?v=PCx228KcOow), but with differences:
 * Bots eat grass.
